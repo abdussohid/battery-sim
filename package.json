@@ -1,0 +1,17 @@
+{
+  "name": "battery-sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^5.0.0",
+    "firebase": "^12.13.0",
+    "firebase-admin": "^13.9.0"
+  }
+}
