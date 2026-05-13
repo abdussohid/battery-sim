@@ -8,22 +8,13 @@ import {
 }
 from "https://www.gstatic.com/firebasejs/12.0.0/firebase-firestore.js";
 
-
-
 const firebaseConfig = {
-
-    apiKey: "AIzaSyBJsmOc_-zOxCH0a5g4jGbm4zfZvWetkQA",
-
-    authDomain: "battery-sim-2fd8a.firebaseapp.com",
-
-    projectId: "battery-sim-2fd8a",
-
-    storageBucket: "battery-sim-2fd8a.firebasestorage.app",
-
-    messagingSenderId: "279904975007",
-
-    appId: "1:279904975007:web:c743f52193983d17a74aaa"
-
+  apiKey: "AIzaSyAocNypA5xfMT7cANkmZ9i90QRF4vssNHs",
+  authDomain: "battery-passport-740e0.firebaseapp.com",
+  projectId: "battery-passport-740e0",
+  storageBucket: "battery-passport-740e0.firebasestorage.app",
+  messagingSenderId: "238904893028",
+  appId: "1:238904893028:web:a0a213e053783a285d8971"
 };
 
 
